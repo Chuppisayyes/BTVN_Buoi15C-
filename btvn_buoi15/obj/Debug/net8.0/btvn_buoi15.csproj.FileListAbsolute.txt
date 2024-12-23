@@ -1,0 +1,17 @@
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\bin\Debug\net8.0\btvn_buoi15.exe
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\bin\Debug\net8.0\btvn_buoi15.deps.json
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\bin\Debug\net8.0\btvn_buoi15.runtimeconfig.json
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\bin\Debug\net8.0\btvn_buoi15.dll
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\bin\Debug\net8.0\btvn_buoi15.pdb
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.csproj.AssemblyReference.cache
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.GeneratedMSBuildEditorConfig.editorconfig
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.AssemblyInfoInputs.cache
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.AssemblyInfo.cs
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.csproj.CoreCompileInputs.cache
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buo.7AE81C5C.Up2Date
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.dll
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\refint\btvn_buoi15.dll
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.pdb
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\btvn_buoi15.genruntimeconfig.cache
+E:\New Volume\Cyber-C#\btvn_buoi15\btvn_buoi15\obj\Debug\net8.0\ref\btvn_buoi15.dll
